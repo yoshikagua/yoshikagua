@@ -1,13 +1,13 @@
-// ![Header](./banner.png)
+![Header](./banner.png)
 
 ---
 
 <h3 align="left">👨‍💻 Acerca de mí</h3>
 
 <p align="left">
-Soy estudiante de Ingeniería de Sistemas y Computación con un fuerte interés en el desarrollo de software. Me apasiona crear soluciones eficientes y escalables, combinando una interfaz intuitiva con una arquitectura backend optimizada.
+Soy estudiante de Ingeniería de Sistemas y Computación con un fuerte interés en el desarrollo de software. Me apasiona aprender y estoy iniciando en mi camino de aprendizaje para volverme un desarrollador fullstack.
 <br><br>
-🔭 Actualmente, estoy trabajando en <a href="https://ejemplo.com/">[Nombre de la empresa o proyecto]</a>, donde me especializo en el desarrollo de aplicaciones web con un enfoque en rendimiento y accesibilidad.
+🔭 Actualmente, no me encuentro estoy trabajando, me dedico al estudio y el aprendizaje en el desarrollo de aplicaciones web con un enfoque en rendimiento y accesibilidad.
 <br><br>
 📚 Mi objetivo profesional es mejorar continuamente mis habilidades en diseño de software, optimización de código y adopción de buenas prácticas en el desarrollo ágil.
 </p>
@@ -19,21 +19,21 @@ Soy estudiante de Ingeniería de Sistemas y Computación con un fuerte interés 
 <h4 align="left">🖌️ Frontend</h4>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nestjs" />
   </a>
 </div>
 
 <h4 align="left">💻 Backend</h4>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=python,java,nodejs,mysql" />
   </a>
 </div>
 
 <h4 align="left">🛟 Extras</h4>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,figma,postman" />
+    <img src="https://skillicons.dev/icons?i=docker,github" />
   </a>
 </div>
 
@@ -41,10 +41,10 @@ Soy estudiante de Ingeniería de Sistemas y Computación con un fuerte interés 
 
 <h3 align="left">📫 Contacto</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/tu-perfil/" target="_blank">
+  <a href="www.linkedin.com/in/stiven-aguirre-granada-88b948241" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:tuemail@gmail.com" target="_blank">
+  <a href="mailto:stivenaguirregranada@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail:tuemail@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
