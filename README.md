@@ -19,14 +19,14 @@ Soy estudiante de Ingeniería de Sistemas y Computación con un fuerte interés 
 <h4 align="left">🖌️ Frontend</h4>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nestjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
   </a>
 </div>
 
 <h4 align="left">💻 Backend</h4>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,nodejs,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,java,nodejs,mysql,nestjs" />
   </a>
 </div>
 
