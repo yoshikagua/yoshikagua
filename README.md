@@ -26,14 +26,14 @@ Soy estudiante de Ingeniería de Sistemas y Computación con un fuerte interés 
 <h4 align="left">💻 Backend</h4>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,nodejs,mysql,nestjs" />
+    <img src="https://skillicons.dev/icons?i=python,java,nodejs,mysql,mongodb,postgres,pos,nestjs,anaconda,bash,bootstrap,graphql,maven,npm" />
   </a>
 </div>
 
 <h4 align="left">🛟 Extras</h4>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,github" />
+    <img src="https://skillicons.dev/icons?i=docker,github,githubactions,arduino,discord,gmail,windows,vscode,latex,md,ps" />
   </a>
 </div>
 
