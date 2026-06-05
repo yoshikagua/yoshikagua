@@ -26,7 +26,7 @@ Estudiante de Ingeniería de Sistemas y Computación interesado en desarrollo de
 <h4 align="left">💻 Backend</h4>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,nodejs,mysql,mongodb,postgres,pos,nestjs,anaconda,bash,bootstrap,graphql,maven,npm" />
+    <img src="https://skillicons.dev/icons?i=python,java,nodejs,mysql,mongodb,postgres,nestjs,anaconda,bash,bootstrap,graphql,maven,npm" />
   </a>
 </div>
 
