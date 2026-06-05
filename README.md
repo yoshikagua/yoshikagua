@@ -30,6 +30,13 @@ Estudiante de Ingeniería de Sistemas y Computación interesado en desarrollo de
   </a>
 </div>
 
+<h4 align="left">🧠 Artificial Intelligence/h4>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,jupyter" />
+  </a>
+</div>
+
 <h4 align="left">🛟 Extras</h4>
 <div align="left">
   <a href="https://skillicons.dev">
